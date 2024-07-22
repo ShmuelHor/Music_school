@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<music-school>
+  <class-room name="guitar jazz">
+    <teacher name="avi" />
+    <student name="enosh">
+      <insturment>guitar</insturment>
+    </student>
+    <student name="shmuel">
+      <instrument>Piano</instrument>
+    </student>
+    <student name="yossi">
+      <instrument>Violin</instrument>
+    </student>
+  </class-room>
+</music-school>
