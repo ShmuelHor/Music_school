@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\shmue\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\c #\\MusicSchool\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6E3B974F-D1EE-4A24-831E-FA1ADA30D551}|Solution Items{6E3B974F-D1EE-4A24-831E-FA1ADA30D551}|C:\\Users\\shmue\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\c #\\MusicSchool\\.tigignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6E3B974F-D1EE-4A24-831E-FA1ADA30D551}|Solution Items{6E3B974F-D1EE-4A24-831E-FA1ADA30D551}|solutionrelative:.tigignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BC977750-EE59-409B-B314-FFC9F63FE24D}|MusicSchool\\MusicSchool.csproj|c:\\users\\shmue\\onedrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\c #\\musicschool\\musicschool\\servce\\musicschoolservce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC977750-EE59-409B-B314-FFC9F63FE24D}|MusicSchool\\MusicSchool.csproj|solutionrelative:musicschool\\servce\\musicschoolservce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,7 +35,7 @@
       "RelativeMoniker": "D:0:0:{BC977750-EE59-409B-B314-FFC9F63FE24D}|MusicSchool\\MusicSchool.csproj|solutionrelative:musicschool\\musicschool.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC977750-EE59-409B-B314-FFC9F63FE24D}|MusicSchool\\MusicSchool.csproj|c:\\users\\shmue\\onedrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\c #\\musicschool\\musicschool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BC977750-EE59-409B-B314-FFC9F63FE24D}|MusicSchool\\MusicSchool.csproj|C:\\Users\\shmue\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\c #\\MusicSchool\\musicschool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BC977750-EE59-409B-B314-FFC9F63FE24D}|MusicSchool\\MusicSchool.csproj|solutionrelative:musicschool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -42,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 176,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\shmue\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\c #\\MusicSchool\\MusicSchool\\Form1.cs",
               "RelativeDocumentMoniker": "MusicSchool\\Form1.cs",
@@ -59,12 +63,25 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".tigignore",
+              "DocumentMoniker": "C:\\Users\\shmue\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\c #\\MusicSchool\\.tigignore",
+              "RelativeDocumentMoniker": ".tigignore",
+              "ToolTip": "C:\\Users\\shmue\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\c #\\MusicSchool\\.tigignore",
+              "RelativeToolTip": ".tigignore",
+              "ViewState": "AQIAAH4BAAAAAAAAAAAAAI0BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-22T14:27:37.974Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "insturmentModel.cs",
               "DocumentMoniker": "C:\\Users\\shmue\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\c #\\MusicSchool\\MusicSchool\\Model\\insturmentModel.cs",
               "RelativeDocumentMoniker": "MusicSchool\\Model\\insturmentModel.cs",
@@ -72,12 +89,11 @@
               "RelativeToolTip": "MusicSchool\\Model\\insturmentModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T11:03:56.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T11:03:56.165Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "studentModel.cs",
               "DocumentMoniker": "C:\\Users\\shmue\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\c #\\MusicSchool\\MusicSchool\\Model\\studentModel.cs",
               "RelativeDocumentMoniker": "MusicSchool\\Model\\studentModel.cs",
@@ -85,12 +101,11 @@
               "RelativeToolTip": "MusicSchool\\Model\\studentModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T11:02:46.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T11:02:46.484Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PracticeServce.cs",
               "DocumentMoniker": "C:\\Users\\shmue\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\c #\\MusicSchool\\MusicSchool\\Servce\\PracticeServce.cs",
               "RelativeDocumentMoniker": "MusicSchool\\Servce\\PracticeServce.cs",
@@ -98,25 +113,24 @@
               "RelativeToolTip": "MusicSchool\\Servce\\PracticeServce.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAIwCMAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T06:17:01.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T06:17:01.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MusicSchoolServce.cs",
               "DocumentMoniker": "C:\\Users\\shmue\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\c #\\MusicSchool\\MusicSchool\\Servce\\MusicSchoolServce.cs",
               "RelativeDocumentMoniker": "MusicSchool\\Servce\\MusicSchoolServce.cs",
               "ToolTip": "C:\\Users\\shmue\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\c #\\MusicSchool\\MusicSchool\\Servce\\MusicSchoolServce.cs",
               "RelativeToolTip": "MusicSchool\\Servce\\MusicSchoolServce.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA8wB4AAAAwAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T08:30:57.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MusicSchoolConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\shmue\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\c #\\MusicSchool\\MusicSchool\\configutaion\\MusicSchoolConfiguration.cs",
               "RelativeDocumentMoniker": "MusicSchool\\configutaion\\MusicSchoolConfiguration.cs",
@@ -124,33 +138,30 @@
               "RelativeToolTip": "MusicSchool\\configutaion\\MusicSchoolConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T08:27:51.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T08:27:51.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MusicSchool",
+              "DocumentIndex": 7,
+              "Title": "MusicSchool.csproj",
               "DocumentMoniker": "C:\\Users\\shmue\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\c #\\MusicSchool\\MusicSchool\\MusicSchool.csproj",
               "RelativeDocumentMoniker": "MusicSchool\\MusicSchool.csproj",
               "ToolTip": "C:\\Users\\shmue\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\c #\\MusicSchool\\MusicSchool\\MusicSchool.csproj",
               "RelativeToolTip": "MusicSchool\\MusicSchool.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-22T06:15:45.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T06:15:45.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\shmue\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\c #\\MusicSchool\\MusicSchool\\Form1.cs",
               "RelativeDocumentMoniker": "MusicSchool\\Form1.cs",
               "ToolTip": "C:\\Users\\shmue\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\c #\\MusicSchool\\MusicSchool\\Form1.cs [Design]",
               "RelativeToolTip": "MusicSchool\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T06:15:26.759Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-22T06:15:26.759Z"
             }
           ]
         }
